@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+*.html linguist-documentation=true
+*.js linguist-documentation=true
+*.css linguist-documentation=true
+*.shader linguist-documentation=true
+*.cginc linguist-documentation=true
